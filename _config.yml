@@ -230,7 +230,7 @@ kramdown:
 include: 
   - _pages/about.md
   - _pages/projects.md
-  - _pages/people.md
+  - _pages/profiles.md
 exclude:
   - bin/
   - CONTRIBUTING.md
