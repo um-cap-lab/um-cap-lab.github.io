@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: NA # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: CAP Blog # blog_name will be displayed in your blog page
+blog_description: # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -227,7 +227,10 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: 
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/people.md
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -248,6 +251,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/cv.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
