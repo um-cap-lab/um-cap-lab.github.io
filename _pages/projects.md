@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CAP projects
+title: projects
 permalink: /projects/
 description: A growing collection of our projects.
 nav: true
