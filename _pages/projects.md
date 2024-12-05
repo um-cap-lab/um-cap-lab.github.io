@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of our projects.
+description: A growing collection of our projects
 nav: true
 nav_order: 3
-display_categories: [automatic speech recognition (ASR), language models]
+display_categories: [Automatic Speech Recognition (ASR), Language Models]
 horizontal: false
 ---
 
