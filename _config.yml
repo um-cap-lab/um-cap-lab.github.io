@@ -231,6 +231,7 @@ include:
   - _pages/about.md
   - _pages/projects.md
   - _pages/profiles.md
+  - assets/img/
 exclude:
   - bin/
   - CONTRIBUTING.md
