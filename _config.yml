@@ -232,6 +232,7 @@ include:
   - _pages/projects.md
   - _pages/profiles.md
   - assets/img/
+  - _layouts/profiles.liquid
 exclude:
   - bin/
   - CONTRIBUTING.md
