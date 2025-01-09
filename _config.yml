@@ -196,7 +196,7 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
@@ -229,7 +229,7 @@ kramdown:
 # Includes & excludes
 include:
   - _pages/about.md
-  - _pages/projects.md
+  # - _pages/projects.md
   - _pages/profiles.md
   - assets/img/
   - _layouts/profiles.liquid
@@ -650,7 +650,7 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
+  # - projects
   - volunteer
   - awards
   - certificates
