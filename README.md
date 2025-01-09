@@ -1,4 +1,4 @@
-# UM CAP lab
+# Computation, Acquisition, and Processing (CAP) Lab
 
 <div align="center">
 

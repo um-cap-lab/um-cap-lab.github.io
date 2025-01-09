@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: UMich CAP Lab # the website title (if blank, full name will be used instead)
+title: Computation, Acquisition, and Processing (CAP) Lab # the website title (if blank, full name will be used instead)
 first_name: CAP
 middle_name:
 last_name: LAB
