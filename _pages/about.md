@@ -22,4 +22,4 @@ The lab benefits from access to extensive research infrastructure, including [ad
 
 New members can request access to details about the lab resources and current plans [here](https://docs.google.com/document/d/1DVECiQFOCqaM4XC2l4ND0Ynx-DVYm2RxxN-EhL_yQus/edit?usp=sharing).
 
-In the coming years, we will be recruiting undergraduate and graduate research assistants, as well as postdoctoral researchers, with a focus on the intersection of computational modeling, language acquisition, and theoretical phonology. Hiring details will be posted here—stay tuned!
+In the coming years, we will be recruiting passionate and talented undergraduate and graduate research assistants, as well as postdoctoral researchers, with a focus on the intersection of computational modeling, language acquisition, and theoretical phonology. Hiring details will be posted here—stay tuned!
