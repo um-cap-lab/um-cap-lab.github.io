@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-We are the Computation, Acquisition, & Processing (CA; 🎓) Lab within the Linguistics Department at the University of Michigan. We work on research projects centered around computational models of language acquisition and processing. 
+We are a lab in the  Department of Linguistics at the University of Michigan, dedicated to advancing research on computational models of language acquisition and processing.
 
-
+In the coming years, we will be recruiting undergrad and graduate research assistant, and postdoctoral researchers specializing in the intersection of computational modeling, language acquisition, and theoretical phonology. Stay tuned! 
 
