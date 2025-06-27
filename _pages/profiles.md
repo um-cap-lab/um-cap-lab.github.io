@@ -17,4 +17,8 @@ profiles:
     image: Mulchandani_Ashana_035.jpeg
     content: about_ashna.md
     image_circular: false # crops the image to make it circular
+  - align: right
+    image: PratikPatil.
+    content: about_pratik.md
+    image_circular: false # crops the image to make it circular
 ---
