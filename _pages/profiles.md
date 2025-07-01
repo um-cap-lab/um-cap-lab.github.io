@@ -18,7 +18,7 @@ profiles:
     content: about_ashna.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: PratikPatil.
+    image: PratikPatil_.jpg
     content: about_pratik.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
 ---
