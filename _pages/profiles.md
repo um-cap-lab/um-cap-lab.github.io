@@ -14,6 +14,14 @@ profiles:
     content: about_huteng.md
     image_circular: false # crops the image to make it circular
   - align: left
+    image: shane.jpg
+    content: about_shane.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: jenny.jpg
+    content: about_jenny.md
+    image_circular: false # crops the image to make it circular
+  - align: left
     image: Mulchandani_Ashana_035.jpeg
     content: about_ashna.md
     image_circular: false # crops the image to make it circular

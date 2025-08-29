@@ -1,0 +1,5 @@
+My name is Shane Storks. I am a postdoctoral Research Fellow in the Weinberg Institute for Cognitive Science at the University of Michigan.
+
+My research evaluates and strengthens the language learning, reasoning, and visual grounding capabilities in NLP technologies, often drawing from cognitive psychology and linguistics. I’m also interested in the broader impacts of NLP applications and research practice.
+
+Find out more about my recent work and contact me at [shanestorks.com](http://shanestorks.com).
