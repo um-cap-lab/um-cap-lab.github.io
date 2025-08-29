@@ -1,5 +1,5 @@
-My name is Shane Storks. I am a postdoctoral Research Fellow in the Weinberg Institute for Cognitive Science at the University of Michigan.
+My name is Huteng Dai (xu˨˩tʰəŋ˧˥ tai˥˨ 戴虎腾; [meaning](https://www.pinterest.com/pin/281826889168185122/)). I am an assistant professor of computational linguistics and phonology at the [University of Michigan](https://lsa.umich.edu/linguistics).
 
-My research evaluates and strengthens the language learning, reasoning, and visual grounding capabilities in NLP technologies, often drawing from cognitive psychology and linguistics. I’m also interested in the broader impacts of NLP applications and research practice.
+My research focuses on understanding how humans learn sound patterns from noisy, real-world data. I build interpretable models of phonological learning that are not only mathematically well-defined but also succeed on real-world corpora.
 
-Find out more about my recent work and contact me at [shanestorks.com](http://shanestorks.com).
+Find out more about my recent work at: [hutengdai.com](https://hutengdai.com). You can also contact me at [huteng@umich.edu](mailto:huteng@umich.edu).
