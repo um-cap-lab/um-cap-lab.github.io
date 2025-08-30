@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Lab Members
+description: Lab Members & Alumni
 nav: true
 nav_order: 7
 
@@ -20,10 +20,6 @@ profiles:
   - align: left
     image: jenny.jpg
     content: about_jenny.md
-    image_circular: false # crops the image to make it circular
-  - align: left
-    image: miles.jpg
-    content: about_miles.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: PratikPatil.jpeg

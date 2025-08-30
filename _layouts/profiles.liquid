@@ -10,7 +10,7 @@ layout: page
         {% elsif forloop.index == 2 %}
           <div class="subheading" style="color: gray; font-size: 1.5em; margin-top: 2em;">Affiliated Researchers</div>
         {% elsif forloop.index == 3 %}
-          <div class="subheading" style="color: gray; font-size: 1.5em; margin-top: 2em;">Research Assistants</div>
+          <div class="subheading" style="color: gray; font-size: 1.5em; margin-top: 2em;">Research Assistant</div>
         {% endif %}
 
         <hr>
@@ -43,7 +43,7 @@ layout: page
     {% endif %}
 
     {% if page.alumni %}
-      <div class="subheading" style="color: gray; font-size: 1.5em; margin-top: 2em;">Alum</div>
+      <div class="subheading" style="color: gray; font-size: 1.5em; margin-top: 2em;">Alumni</div>
       {% for profile in page.alumni %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
