@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-We are a lab in the  Department of Linguistics at the University of Michigan, dedicated to advancing research on computational models of language acquisition and processing.
+We are a lab in the Department of Linguistics at the University of Michigan, dedicated to advancing research on computational models of language acquisition and processing.
 
-The lab benefits from access to extensive research infrastructure, including [advanced research computing](https://its.umich.edu/advanced-research-computing) resources such as GPU hours on the Great Lakes HPC. Additionally, we provide members with powerful machines to support their lab work. 
+The lab benefits from access to extensive research infrastructure, including [advanced research computing](https://its.umich.edu/advanced-research-computing) resources such as GPU hours on the Great Lakes HPC. Additionally, we provide members with powerful machines to support their lab work.
 
 New members can request access to details about the lab resources and current plans [here](https://docs.google.com/document/d/1DVECiQFOCqaM4XC2l4ND0Ynx-DVYm2RxxN-EhL_yQus/edit?usp=sharing).
 
