@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /profiles/
 title: People
 description:
 nav: true
