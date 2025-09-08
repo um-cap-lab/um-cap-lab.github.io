@@ -25,7 +25,7 @@ profiles:
     image: miles.jpg
     content: about_miles.md
     image_circular: false # crops the image to make it circular
-  - align: right
+  - align: left
     image: PratikPatil.jpeg
     content: about_pratik.md
     image_circular: false
