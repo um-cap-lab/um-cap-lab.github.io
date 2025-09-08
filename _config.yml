@@ -229,7 +229,6 @@ kramdown:
 # Includes & excludes
 include:
   - _pages/about.md
-  - _pages/projects.md
   - _pages/profiles.md
   - assets/img/
   - _layouts/profiles.liquid
