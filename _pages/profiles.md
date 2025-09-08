@@ -20,13 +20,11 @@ profiles:
   - align: left
     image: jenny.jpg
     content: about_jenny.md
-    image_circular: false # crops the image to make
-it circular
+    image_circular: false # crops the image to make it circular
   - align: left
     image: miles.jpg
     content: about_miles.md
-    image_circular: false # crops the image to make
-it circular
+    image_circular: false # crops the image to make it circular
   - align: right
     image: PratikPatil.jpeg
     content: about_pratik.md
